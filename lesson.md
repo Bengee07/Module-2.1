@@ -10,7 +10,7 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ---
 
-## Part 1 - Insert Summary
+## Part 1 - What is Cloud Computing
 
 Insert Instructions
 
