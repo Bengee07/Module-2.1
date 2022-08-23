@@ -37,12 +37,44 @@ The location of the service and many other variables, such as the hardware or op
 
 ---
 
-## Part 2 - Cloud Computing VS Traditional Computing
+## Part 2 - Benefit of Cloud Computing
+
+A significant change from how organizations have traditionally viewed IT resources is cloud computing. The following are prevalent among businesses for using cloud computing services: 
+
+**Cost**
+
+With cloud computing, there is no longer a need to invest in hardware, software, the infrastructure of on-site datacenters, including the server racks, round-the-clock electricity for power and cooling, and IT professionals to oversee the infrastructure. It quickly adds up. 
+
+**Speed**
+
+The majority of cloud computing services are self-service and on-demand, making it possible to provision even large quantities of computing resources quickly and generally with only a few mouse clicks. This gives enterprises a great deal of flexibility and relieves the burden of capacity planning. 
+
+**Global Scope**
+
+The flexibility of scaling is one of the advantages of cloud computing services. In the context of the cloud, this refers to providing the appropriate level of IT resources at the appropriate time and from the appropriate location, such as more or less processing power, storage, and bandwidth. 
+
+**Productivity**
+
+Hardware installation, software patching, and other time-consuming IT management tasks are frequently needed for on-site datacenters. Many of these duties are no longer necessary thanks to cloud computing, freeing up IT employees' time to focus on more crucial business objectives. 
+
+**Performance**
+
+The largest cloud computing services are powered by a global network of safe datacenters that are routinely updated with the newest models of quick and effective computing gear. In comparison to a single corporate datacenter, this has a number of advantages, including lower network latency for applications and greater economies of scale. 
+
+**Reliability**
+
+Due to the fact that data can be replicated at numerous redundant sites on the network of the cloud provider, cloud computing makes data backup, disaster recovery, and business continuity simpler and less expensive. 
+
+**Security**
+
+A wide range of rules, tools, and controls are provided by many cloud service providers, strengthening your overall security posture and defending your infrastructure, apps, and data from potential threats.
+
+## Part 3 - Cloud Computing VS Traditional Computing
 
 Insert Instructions
 
 ---
 
-## Part 3 - Hybrid Computing
+## Part 4 - Hybrid Computing
 
 Applications may run in a variety of different settings as part of a hybrid cloud. Since so few people currently rely only on the public cloud, hybrid cloud computing strategies are widely used. Over the past few decades, many of you have spent millions of dollars and countless hours building on-premises infrastructure. Combining a public and private cloud environment, such as an on-premises data center with a public cloud computing environment, such as Google Cloud, is the most typical hybrid cloud example. We go into how some of you might run a combination of on-premises and various public cloud environments, effectively being both hybrid and multicloud, in the "How-to hybrid" section below.
