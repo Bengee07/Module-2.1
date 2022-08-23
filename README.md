@@ -28,7 +28,7 @@ Learners will be able to:
 |20 mins|Activity| Practical hands on|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|20 mins|Conceptual Knowledge| Cloud computing vs Traditional computing|
+|20 mins|Conceptual Knowledge| Hybrid Cloud|
 |20 mins|Activity| Practical hands on|
 |5 mins|Buffer|In case of overrun|
 |5 mins|Break||
