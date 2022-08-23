@@ -12,6 +12,10 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ## Part 1 - What is Cloud Computing
 
+
+![image](https://user-images.githubusercontent.com/106639884/186099363-caa90054-a594-49d0-ac4a-837b3799173c.jpeg)
+
+
 **Simpliest Meaning**
 
 In order to provide quicker innovation, adaptable resources, and scale economies, cloud computing, in its simplest form, is **the supply of computing services via the Internet ("the cloud")**, encompassing servers, storage, databases, networking, software, analytics, and intelligence. Typically, you only pay for the cloud services you actually use, which lowers operational expenses, improves infrastructure management, and enables you to scale as your company's needs evolve.
@@ -33,12 +37,12 @@ The location of the service and many other variables, such as the hardware or op
 
 ---
 
-## Part 2 - Insert Summary
+## Part 2 - Cloud Computing VS Traditional Computing
 
 Insert Instructions
 
 ---
 
-## Part 3 - Insert Summary
+## Part 3 - Hybrid Computing
 
-Insert Instructions
+Applications may run in a variety of different settings as part of a hybrid cloud. Since so few people currently rely only on the public cloud, hybrid cloud computing strategies are widely used. Over the past few decades, many of you have spent millions of dollars and countless hours building on-premises infrastructure. Combining a public and private cloud environment, such as an on-premises data center with a public cloud computing environment, such as Google Cloud, is the most typical hybrid cloud example. We go into how some of you might run a combination of on-premises and various public cloud environments, effectively being both hybrid and multicloud, in the "How-to hybrid" section below.
