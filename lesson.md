@@ -25,6 +25,12 @@ These "time-sharing" services were mainly replaced by the development of the per
 
 However, in the application service providers, utility computing, and grid computing of the late 1990s and early 2000s, the idea of renting access to computer resources has often come up. This was followed by the rise of software as a service and hyperscale cloud-computing companies like Amazon Web Services, after which cloud computing really took off.
 
+
+**Why is it called cloud computing?**
+
+The location of the service and many other variables, such as the hardware or operating system on which it is running, are key ideas in cloud computing, although they are mostly irrelevant to the user. The public telephone network (and later the internet) were frequently depicted as clouds in ancient telecoms network diagrams to indicate that the location didn't matter — it was just a cloud of things. With this in mind, the metaphor of the cloud was derived from these schematics. Of course, this oversimplifies the situation; for many consumers, the location of their services and data continues to be a major concern.
+
+
 ---
 
 ## Part 2 - Insert Summary
