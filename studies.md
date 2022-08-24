@@ -10,7 +10,7 @@ Technical knowledge is vast. Timebox yourself for 3 hours to work on the followi
 
 ### Readings
 
-- add links
+- [Hybrid Cloud by Google](https://cloud.google.com/learn/what-is-hybrid-cloud)
 
 ### Helpful Links (References)
 
