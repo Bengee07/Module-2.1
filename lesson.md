@@ -107,11 +107,10 @@ With traditional IT infrastructure, you are responsible for the protection of yo
 
 ## Part 4 - Hybrid Cloud
 
-A hybrid cloud approach is one of the most common infrastructure setups today because you can continue to use your on-premises servers while also taking advantage of public cloud options like Google Cloud.
+A hybrid cloud approach is one of the most common infrastructure setups today because you can continue to use your on-premises servers while also taking advantage of public cloud options like Google Cloud. Hybrid cloud solutions include applications, or their components such as compute, networking, and storage, when deployed across public and private clouds. On-premises servers are also often referred to as private clouds.
 
-Hybrid cloud solutions include applications, or their components such as compute, networking, and storage, when deployed across public and private clouds. On-premises servers are also often referred to as private clouds.
+Applications may run in a variety of different environments as part of a hybrid cloud. Since so few people today rely solely on the public cloud, hybrid cloud computing strategies are widely used. Over the past few decades, many of you have spent millions of dollars and countless hours building on-premises infrastructure. Combining a public and private cloud environment, such as an on-premises data center and a public cloud computing environment, such as Google Cloud, is the most typical hybrid cloud example.
 
-Applications may run in a variety of different settings as part of a hybrid cloud. Since so few people currently rely only on the public cloud, hybrid cloud computing strategies are widely used. Over the past few decades, many of you have spent millions of dollars and countless hours building on-premises infrastructure. Combining a public and private cloud environment, such as an on-premises data center with a public cloud computing environment, such as Google Cloud, is the most typical hybrid cloud example. We go into how some of you might run a combination of on-premises and various public cloud environments, effectively being both hybrid and multicloud, in the "How-to hybrid" section below.
 
 ## Part 5 - Hybrid Cloud Benefits
 
@@ -130,3 +129,7 @@ Hybrid computing gives you the flexibility to operate in the environment that’
 **Improved ROI**
 
 By adding a public cloud provider to your existing on-premises infrastructure, you can expand your cloud computing capacity without increasing your data center expenses. 
+
+
+## Part 6 - Activity - Traditional Computing vs Cloud Computing - Hybrid Cloud
+
