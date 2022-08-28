@@ -24,8 +24,10 @@ Learners will be able to:
 |--------|-----|-------|
 |- 5mins |Start zoom session|So that students can join early and start class on time|
 |10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|20 mins|Conceptual Knowledge| What is Cloud Computing|
-|20 mins|Activity| Practical hands on|
+|10 mins|Conceptual Knowledge| What is Cloud Computing|
+|10 mins|Conceptual Knowledge| Benefit of Cloud Computing|
+|10 mins|Conceptual Knowledge| Cloud Computing vs Traditional Computing|
+|10 mins|Activity| Case study|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
 |20 mins|Conceptual Knowledge| Hybrid Cloud|
