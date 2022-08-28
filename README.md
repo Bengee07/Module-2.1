@@ -30,8 +30,8 @@ Learners will be able to:
 |10 mins|Activity| Case study|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|20 mins|Conceptual Knowledge| Hybrid Cloud|
-|20 mins|Activity| Practical hands on|
+|10 mins|Conceptual Knowledge| Hybrid Cloud|
+|30 mins|Activity| Activity - Traditional Computing vs Cloud Computing - Hybrid Cloud|
 |5 mins|Buffer|In case of overrun|
 |5 mins|Break||
 |5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
