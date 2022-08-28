@@ -133,3 +133,20 @@ By adding a public cloud provider to your existing on-premises infrastructure, y
 
 ## Part 6 - Activity - Traditional Computing vs Cloud Computing - Hybrid Cloud
 
+Prepare presentation with your own group about which method that will you use to handle these case
+
+Case:
+
+- Newly Launched eCommerce
+- Large eCommerce with millions of user
+- Financial Institution
+- Government
+- Personal Static Website
+- Email Application
+
+
+Method:
+
+- Traditional Computing
+- Cloud Computing
+- Hybrid Cloud Computing
