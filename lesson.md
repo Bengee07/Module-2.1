@@ -6,17 +6,18 @@ Write about any preparations needed for the lesson, such as tools, installations
 
 ### Lesson Overview
 
-Write about how instructors can brief the students at the start of the lesson. It is good to guide students through what is going to be covered and the outcome. Setting expectations.
+1. What is Cloud Computing?
+2. Benefits of Cloud Computing
+3. Cloud Computing VS Traditional Computing
+4. Hybrid Cloud
 
 ---
 
-## Part 1 - What is Cloud Computing
+## Part 1 - What is Cloud Computing?
 
 
 ![image](https://user-images.githubusercontent.com/106639884/186099363-caa90054-a594-49d0-ac4a-837b3799173c.jpeg)
 
-
-**Simpliest Meaning**
 
 In order to provide quicker innovation, adaptable resources, and scale economies, cloud computing, in its simplest form, is **the supply of computing services via the Internet ("the cloud")**, encompassing servers, storage, databases, networking, software, analytics, and intelligence. Typically, you only pay for the cloud services you actually use, which lowers operational expenses, improves infrastructure management, and enables you to scale as your company's needs evolve.
 
@@ -37,7 +38,7 @@ The location of the service and many other variables, such as the hardware or op
 
 ---
 
-## Part 2 - Benefit of Cloud Computing
+## Part 2 - Benefits of Cloud Computing
 
 A significant change from how organizations have traditionally viewed IT resources is cloud computing. The following are prevalent among businesses for using cloud computing services: 
 
