@@ -125,6 +125,10 @@ With traditional IT infrastructure, you are responsible for the protection of yo
 
 ## Part 3 - Hybrid Cloud
 
+
+![image](https://user-images.githubusercontent.com/106639884/199251917-dd129b89-677c-4ba4-b548-915ccece36b3.png)
+
+
 A hybrid cloud approach is one of the most common infrastructure setups today because you can continue to use your on-premises servers while also taking advantage of public cloud options like Google Cloud. Hybrid cloud solutions include applications, or their components such as compute, networking, and storage, when deployed across public and private clouds. On-premises servers are also often referred to as private clouds.
 
 Applications may run in a variety of different environments as part of a hybrid cloud. Since so few people today rely solely on the public cloud, hybrid cloud computing strategies are widely used. Over the past few decades, many of you have spent millions of dollars and countless hours building on-premises infrastructure. Combining a public and private cloud environment, such as an on-premises data center and a public cloud computing environment, such as Google Cloud, is the most typical hybrid cloud example.
