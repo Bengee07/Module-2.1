@@ -70,6 +70,16 @@ Due to the fact that data can be replicated at numerous redundant sites on the n
 
 A wide range of rules, tools, and controls are provided by many cloud service providers, strengthening your overall security posture and defending your infrastructure, apps, and data from potential threats.
 
+### Class Activity 
+
+Learners have briefs understanding of what Cloud Computing is. Before continue, lets answers this question 
+
+1. What is Cloud Computing
+2. What is benefit of cloud computing
+3. Do you have any experience in cloud computing?
+4. Do you know what company have well implementation of cloud computing?
+5. If you are a CTO or Decision maker in your company, will you use Cloud Computing? Why?
+
 ## Part 3 - Cloud Computing VS Traditional Computing
 
 Cloud computing is a lot more ethereal than traditional virtual hosting. All servers, software, and networks are housed in the cloud, off-site, and not via physical hardware. It is a concurrently hosted real-time virtual environment spread across numerous separate servers. Therefore, you can rent data storage space from cloud computing companies on a more cost-effective pay-per-use basis rather than investing money into buying physical servers in-house.
