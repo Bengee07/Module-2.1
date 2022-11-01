@@ -178,6 +178,7 @@ Case:
 - Government
 - Personal Static Website
 - Email Application
+- Pick your own cases
 
 
 Method:
