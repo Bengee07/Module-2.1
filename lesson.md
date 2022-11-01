@@ -142,6 +142,16 @@ Hybrid computing gives you the flexibility to operate in the environment that’
 By adding a public cloud provider to your existing on-premises infrastructure, you can expand your cloud computing capacity without increasing your data center expenses. 
 
 
+### Class Activity 
+
+Learners have briefs understanding of what Traditiona, and Hybrid Computing are. Before continue, lets answers this question 
+
+1. What is Hybrid Computing
+2. What is benefit of Hybrid computing
+3. Do you have any experience in Traditional or Hybrid computing?
+4. Do you know what company have well implementation of Hybrid computing?
+
+
 ## Part 6 - Activity - Traditional Computing vs Cloud Computing - Hybrid Cloud
 
 Prepare presentation with your own group about which method that will you use to handle these case
