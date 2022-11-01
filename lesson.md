@@ -70,15 +70,18 @@ Due to the fact that data can be replicated at numerous redundant sites on the n
 
 A wide range of rules, tools, and controls are provided by many cloud service providers, strengthening your overall security posture and defending your infrastructure, apps, and data from potential threats.
 
-### Class Activity 
+### *Activity - Brainstorming*
 
-Learners have briefs understanding of what Cloud Computing is. Before continue, lets answers this question 
+Make a guess and try to answer these questions as a class:
 
-1. What is Cloud Computing
-2. What is benefit of cloud computing
-3. Do you have any experience in cloud computing?
-4. Do you know what company have well implementation of cloud computing?
-5. If you are a CTO or Decision maker in your company, will you use Cloud Computing? Why?
+|Qns|Ans|
+|-|-|
+|1. What is Cloud Computing|Your input|
+|2. What is benefit of cloud computing|Your input|
+|3. Do you have any experience in cloud computing?|Your input|
+|4. Do you know what company have well implementation of cloud computing?|Your input|
+|5. If you are a CTO or Decision maker in your company, will you use Cloud Computing? Why? What is your business look like|Your input|
+
 
 ## Part 2 - Cloud Computing VS Traditional Computing
 
@@ -142,14 +145,17 @@ Hybrid computing gives you the flexibility to operate in the environment that’
 By adding a public cloud provider to your existing on-premises infrastructure, you can expand your cloud computing capacity without increasing your data center expenses. 
 
 
-### Class Activity 
+### *Activity - Brainstorming*
 
-Learners have briefs understanding of what Traditiona, and Hybrid Computing are. Before continue, lets answers this question 
+Make a guess and try to answer these questions as a class:
 
-1. What is Hybrid Computing
-2. What is benefit of Hybrid computing
-3. Do you have any experience in Traditional or Hybrid computing?
-4. Do you know what company have well implementation of Hybrid computing?
+|Qns|Ans|
+|-|-|
+|1. What is Hybrid Computing|Your input|
+|2. What is benefit of Hybrid computing|Your input|
+|3. Do you have any experience in Traditional or Hybrid computing?|Your input|
+|4. Do you know what company have well implementation of Hybrid computing?|Your input|
+|5. If you are a CTO or Decision maker in your company, will you use Hybrid Computing? Why? What is your business look like|Your input|
 
 
 ## Part 4 - Activity - Traditional Computing vs Cloud Computing - Hybrid Cloud
