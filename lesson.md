@@ -38,7 +38,7 @@ The location of the service and many other variables, such as the hardware or op
 
 ---
 
-## Part 2 - Benefits of Cloud Computing
+### Benefits of Cloud Computing
 
 A significant change from how organizations have traditionally viewed IT resources is cloud computing. The following are prevalent among businesses for using cloud computing services: 
 
@@ -80,7 +80,7 @@ Learners have briefs understanding of what Cloud Computing is. Before continue, 
 4. Do you know what company have well implementation of cloud computing?
 5. If you are a CTO or Decision maker in your company, will you use Cloud Computing? Why?
 
-## Part 3 - Cloud Computing VS Traditional Computing
+## Part 2 - Cloud Computing VS Traditional Computing
 
 Cloud computing is a lot more ethereal than traditional virtual hosting. All servers, software, and networks are housed in the cloud, off-site, and not via physical hardware. It is a concurrently hosted real-time virtual environment spread across numerous separate servers. Therefore, you can rent data storage space from cloud computing companies on a more cost-effective pay-per-use basis rather than investing money into buying physical servers in-house.
 
@@ -116,14 +116,14 @@ With traditional IT infrastructure, you are responsible for the protection of yo
 
 ---
 
-## Part 4 - Hybrid Cloud
+## Part 3 - Hybrid Cloud
 
 A hybrid cloud approach is one of the most common infrastructure setups today because you can continue to use your on-premises servers while also taking advantage of public cloud options like Google Cloud. Hybrid cloud solutions include applications, or their components such as compute, networking, and storage, when deployed across public and private clouds. On-premises servers are also often referred to as private clouds.
 
 Applications may run in a variety of different environments as part of a hybrid cloud. Since so few people today rely solely on the public cloud, hybrid cloud computing strategies are widely used. Over the past few decades, many of you have spent millions of dollars and countless hours building on-premises infrastructure. Combining a public and private cloud environment, such as an on-premises data center and a public cloud computing environment, such as Google Cloud, is the most typical hybrid cloud example.
 
 
-## Part 5 - Hybrid Cloud Benefits
+### Hybrid Cloud Benefits
 
 **Effective application governance**
 
@@ -152,7 +152,7 @@ Learners have briefs understanding of what Traditiona, and Hybrid Computing are.
 4. Do you know what company have well implementation of Hybrid computing?
 
 
-## Part 6 - Activity - Traditional Computing vs Cloud Computing - Hybrid Cloud
+## Part 4 - Activity - Traditional Computing vs Cloud Computing - Hybrid Cloud
 
 Prepare presentation with your own group about which method that will you use to handle these case
 
@@ -171,3 +171,10 @@ Method:
 - Traditional Computing
 - Cloud Computing
 - Hybrid Cloud Computing
+
+
+Questions:
+
+- What is your case about? Explain (Company Size, User Size, etc)
+- What method you choose? Why?
+- What is the benefit of method that you choose?
