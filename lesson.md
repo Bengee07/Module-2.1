@@ -85,6 +85,10 @@ Make a guess and try to answer these questions as a class:
 
 ## Part 2 - Cloud Computing VS Traditional Computing
 
+
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/106639884/199250946-5110a969-b17d-4959-a9db-2899ec868086.png">
+
+
 Cloud computing is a lot more ethereal than traditional virtual hosting. All servers, software, and networks are housed in the cloud, off-site, and not via physical hardware. It is a concurrently hosted real-time virtual environment spread across numerous separate servers. Therefore, you can rent data storage space from cloud computing companies on a more cost-effective pay-per-use basis rather than investing money into buying physical servers in-house.
 
 The following are the primary differences:
